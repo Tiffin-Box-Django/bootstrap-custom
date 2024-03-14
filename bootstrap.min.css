@@ -5020,7 +5020,7 @@ textarea.form-control-lg {
 }
 
 .alert-primary {
-    --bs-alert-color: #084298;
+    --bs-alert-color: #984C0C;
     --bs-alert-bg: #FFE5D0;
     --bs-alert-border-color: #b6d4fe
 }
@@ -5441,19 +5441,19 @@ textarea.form-control-lg {
 }
 
 .list-group-item-primary {
-    color: #084298;
+    color: #984C0C;
     background-color: #FFE5D0
 }
 
 .list-group-item-primary.list-group-item-action:focus,.list-group-item-primary.list-group-item-action:hover {
-    color: #084298;
+    color: #984C0C;
     background-color: #bacbe6
 }
 
 .list-group-item-primary.list-group-item-action.active {
     color: #fff;
-    background-color: #084298;
-    border-color: #084298
+    background-color: #984C0C;
+    border-color: #984C0C
 }
 
 .list-group-item-secondary {
